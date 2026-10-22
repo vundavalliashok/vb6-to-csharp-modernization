@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LegacyMigration.Application/1.0.0": {
+        "dependencies": {
+          "LegacyMigration.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LegacyMigration.Application.dll": {}
+        }
+      },
+      "LegacyMigration.Domain/1.0.0": {
+        "runtime": {
+          "LegacyMigration.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LegacyMigration.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LegacyMigration.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

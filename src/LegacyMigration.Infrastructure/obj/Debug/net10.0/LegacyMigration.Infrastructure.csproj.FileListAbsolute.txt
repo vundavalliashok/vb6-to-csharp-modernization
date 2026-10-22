@@ -1,0 +1,16 @@
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\bin\Debug\net10.0\LegacyMigration.Infrastructure.deps.json
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\bin\Debug\net10.0\LegacyMigration.Infrastructure.dll
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\bin\Debug\net10.0\LegacyMigration.Infrastructure.pdb
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\bin\Debug\net10.0\LegacyMigration.Domain.dll
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\bin\Debug\net10.0\LegacyMigration.Domain.pdb
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\LegacyMigration.Infrastructure.csproj.AssemblyReference.cache
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\LegacyMigration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\LegacyMigration.Infrastructure.AssemblyInfoInputs.cache
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\LegacyMigration.Infrastructure.AssemblyInfo.cs
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\LegacyMigration.Infrastructure.csproj.CoreCompileInputs.cache
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\LegacyMigration.Infrastructure.sourcelink.json
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\LegacyMi.36E87A34.Up2Date
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\LegacyMigration.Infrastructure.dll
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\refint\LegacyMigration.Infrastructure.dll
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\LegacyMigration.Infrastructure.pdb
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Infrastructure\obj\Debug\net10.0\ref\LegacyMigration.Infrastructure.dll

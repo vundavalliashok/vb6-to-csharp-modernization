@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="src/LegacyMigration.Domain/LegacyMigration.Domain.csproj" />
+  <Project Path="src/LegacyMigration.Application/LegacyMigration.Application.csproj" />
+  <Project Path="src/LegacyMigration.Infrastructure/LegacyMigration.Infrastructure.csproj" />
+  <Project Path="src/LegacyMigration.Api/LegacyMigration.Api.csproj" />
+  <Project Path="tests/LegacyMigration.UnitTests/LegacyMigration.UnitTests.csproj" />
+  <Project Path="tests/LegacyMigration.IntegrationTests/LegacyMigration.IntegrationTests.csproj" />
+</Solution>

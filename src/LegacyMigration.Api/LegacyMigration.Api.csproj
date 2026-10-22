@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup><TargetFramework>net10.0</TargetFramework></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../LegacyMigration.Domain/LegacyMigration.Domain.csproj" />
+    <ProjectReference Include="../LegacyMigration.Application/LegacyMigration.Application.csproj" />
+    <ProjectReference Include="../LegacyMigration.Infrastructure/LegacyMigration.Infrastructure.csproj" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.0.1" />
+  </ItemGroup>
+</Project>

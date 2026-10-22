@@ -1,0 +1,12 @@
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\bin\Debug\net10.0\LegacyMigration.Domain.deps.json
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\bin\Debug\net10.0\LegacyMigration.Domain.dll
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\bin\Debug\net10.0\LegacyMigration.Domain.pdb
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\obj\Debug\net10.0\LegacyMigration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\obj\Debug\net10.0\LegacyMigration.Domain.AssemblyInfoInputs.cache
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\obj\Debug\net10.0\LegacyMigration.Domain.AssemblyInfo.cs
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\obj\Debug\net10.0\LegacyMigration.Domain.csproj.CoreCompileInputs.cache
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\obj\Debug\net10.0\LegacyMigration.Domain.sourcelink.json
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\obj\Debug\net10.0\LegacyMigration.Domain.dll
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\obj\Debug\net10.0\refint\LegacyMigration.Domain.dll
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\obj\Debug\net10.0\LegacyMigration.Domain.pdb
+C:\source\vb6-to-csharp-modernization\src\LegacyMigration.Domain\obj\Debug\net10.0\ref\LegacyMigration.Domain.dll
